@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Dollar-Bill-PNG-Picture.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Dollar-Bill-PNG-Picture@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Dollar-Bill-PNG-Picture@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
